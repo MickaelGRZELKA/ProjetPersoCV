@@ -1,11 +1,11 @@
 $(document).ready(function () {
     $('body').css('display', 'none');
-    $('body').fadeIn(1000);
+    $('body').fadeIn(1500);
 
     $('.buttonLink').click(function (event) {
         event.preventDefault();
         newLocation = this.href;
-        $('body').fadeOut(1000, newpage);
+        $('body').fadeOut(1500, newpage);
 
     });
 
