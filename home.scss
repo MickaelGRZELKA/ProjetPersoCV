@@ -197,3 +197,19 @@ h1{
   width: 50%;
   align-items: center;
 }
+.about-me{
+  display: flex;
+  justify-content: center;
+}
+.aboutMe{
+  padding: auto;
+  background-color: #fff;
+  h3{
+    font-size: 2rem;
+    text-align: center;
+  }
+  p{
+    display: block;
+    text-align: justify;
+  }
+}
