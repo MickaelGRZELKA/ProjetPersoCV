@@ -130,5 +130,14 @@ body {
 @keyframes line {
   0% {
     background-position-x: 390px; } }
+h1 {
+  color: #d94f5c;
+  text-align: center;
+  margin-top: 8rem;
+  font-size: 3rem; }
+
+.separator-1 {
+  width: 50%;
+  align-items: center; }
 
 /*# sourceMappingURL=test.css.map */
