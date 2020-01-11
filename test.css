@@ -140,4 +140,18 @@ h1 {
   width: 50%;
   align-items: center; }
 
+.about-me {
+  display: flex;
+  justify-content: center; }
+
+.aboutMe {
+  padding: auto;
+  background-color: #fff; }
+  .aboutMe h3 {
+    font-size: 2rem;
+    text-align: center; }
+  .aboutMe p {
+    display: block;
+    text-align: justify; }
+
 /*# sourceMappingURL=test.css.map */
