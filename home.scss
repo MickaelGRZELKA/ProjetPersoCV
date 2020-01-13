@@ -203,13 +203,19 @@ h1{
 }
 .aboutMe{
   padding: auto;
-  background-color: #fff;
   h3{
     font-size: 2rem;
     text-align: center;
+    color: #d94f5c;
   }
   p{
     display: block;
     text-align: justify;
+    color: #fff;
+    font-size: 1.2rem;
   }
+}
+.separator-2{
+  width: 50%;
+  align-items: center;
 }
