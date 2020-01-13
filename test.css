@@ -145,13 +145,19 @@ h1 {
   justify-content: center; }
 
 .aboutMe {
-  padding: auto;
-  background-color: #fff; }
+  padding: auto; }
   .aboutMe h3 {
     font-size: 2rem;
-    text-align: center; }
+    text-align: center;
+    color: #d94f5c; }
   .aboutMe p {
     display: block;
-    text-align: justify; }
+    text-align: justify;
+    color: #fff;
+    font-size: 1.2rem; }
+
+.separator-2 {
+  width: 50%;
+  align-items: center; }
 
 /*# sourceMappingURL=test.css.map */
