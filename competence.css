@@ -6,6 +6,9 @@
   margin: 0 auto;
   list-style: none; }
 
+body {
+  background-color: #000; }
+
 .menu li {
   width: 125px;
   height: 50px;
